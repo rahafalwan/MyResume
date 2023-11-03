@@ -1,0 +1,204 @@
+body{
+background-color: black;
+}
+.container
+{
+    width:fit-content;
+    height:auto;
+    background-color:0100006f;
+    
+}
+.personal-info
+{
+    background-color:#151414c7;
+   
+    padding-bottom: 10pt;
+    margin-bottom: 10pt;
+}
+.personal-info-img
+{
+    background-color:#1c1c2129;
+    padding-bottom: 10pt;
+   
+   
+}
+.img-profile
+{
+    width:25%;
+    height: auto;
+    margin-top: 10pt;
+    
+    border-radius: 50%;
+}
+.my-id
+{
+    color: lightgray;
+    text-align: center;
+    margin-top: 10pt;
+    margin-bottom: 10pt;
+
+}
+.subtitle
+{
+    color:#7a7981;
+    text-align: center;
+    margin-top: 10pt;
+    margin-bottom: 10pt;
+
+}
+.p-info
+{
+    margin: 5pt;
+    font-weight: bold;
+}
+.card
+{
+    background-color: #181819aa;
+}
+hr {
+    border: 1px solid gray;
+   
+    
+   margin: 5pt;
+   align-items: center;
+  
+  }
+  .my-contact
+  {
+    margin-left: 10pt;
+    color: white;
+  }
+  .fa 
+  {
+    font-size:18px;
+    color:#d68527;
+  }
+  .edu 
+  {
+    font-size:18px;
+    color:#d68527;
+    font-weight: bold;
+    padding-left: 5pt
+  }
+  
+  .my-contact-info
+  {
+    color: lightgrey;
+    font-size:15px;
+  }
+  .my-contact-head
+  {
+    
+    color: #d68527;
+    font-size:15px;
+    font-weight: bold;
+   
+    
+  }
+  .my-profile
+  {
+    background-image:url("images/bg.png");
+    background: url("images/bg.png");
+   
+  }
+  .my-contact-subtitle
+  {
+    color:#7a7981;
+    font-size:15px;
+  }
+  .my-edu-info
+  {
+    color: lightgrey;
+    font-size:15px;
+    padding-left: 5pt;
+  }
+  .side {
+    float: left;
+    width: 25%;
+   font-size: medium;
+    color: lightgray;
+    
+  }
+  
+  .middle {
+    float: left;
+    width: 70%;
+    color: white;
+   
+  }
+  .bar-80 {
+    
+    width: 0%; height: 7px; background-color: #d68527;
+    transition: width 5s;
+}
+
+.bar-45{
+    width: 0%; height: 7px; background-color: #d68527;
+    transition: width 5s;
+}
+.bar-65{
+    width: 0%; height: 7px; background-color: #d68527;
+    transition: width 5s;
+}
+.bar-50{
+    width: 0%; height: 7px; background-color: #d68527;
+    transition: width 5s;
+}
+.bar-container {
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+    margin-top: 7pt;
+  }
+  
+  .pro-head
+  {
+
+    color: white;
+    font-weight: bold;
+  }
+  .date
+  {
+    color: gray;
+    font-weight: bold;
+    
+  }
+  .comp
+  {
+    color: gray;
+    font-weight: bold;
+    text-align: center;
+  }
+  .job-tittle
+  {
+    color:white;
+    font-weight: bold;
+  }
+  .content
+  {
+    margin: 5pt;
+  }
+  
+  .fa-star
+  {
+    color: lightgray;
+  }
+  .checked {
+    color: orange;
+  }
+  .btn{
+   
+    height: 50px;
+    width: 300px;
+    color: white;
+    background-color: #d68527;
+   
+  }
+  .btn :hover
+  {
+    color: white;
+    
+  }
+ 
